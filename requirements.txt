@@ -1,0 +1,9 @@
+opencv-python
+mediapipe==0.10.14
+protobuf>=4.25.3,<5
+pyautogui
+numpy
+keyboard
+screeninfo
+openai
+pillow

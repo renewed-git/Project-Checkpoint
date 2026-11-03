@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Gaze cursor: local calibration/metrics files and the local virtual environment
+gaze_calibration*.json
+typing_metrics.csv
+gaze-env/
